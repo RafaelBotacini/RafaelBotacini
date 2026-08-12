@@ -18,8 +18,7 @@ Atualmente, busco oportunidades para evoluir profissionalmente na área de tecno
 
 ## 🎓 Formação
 
-* 💻 **Curso Técnico em Informática para a Internet** — Concluído
-* 🏫 Ensino Médio — Concluído
+* 🏫 **Ensino Médio com Curso Técnico Integrado em Informática para a Internet** — Concluído
 
 Durante minha formação técnica, desenvolvi projetos envolvendo **desenvolvimento Web, programação, bancos de dados e desenvolvimento de sistemas**, incluindo um projeto de TCC voltado para gerenciamento de biblioteca.
 
